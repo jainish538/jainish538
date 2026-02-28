@@ -14,14 +14,14 @@ I build high-performance mobile applications with clean architecture, scalable b
 - ⚡ Specialized in Firebase optimization & real-time apps  
 - 💬 Ask me about Flutter, Android, Firebase, API Integration  
 - 👯 Open for freelance & collaboration projects  
-- 📫 Reach me at: your-email@gmail.com  
+- 📫 Reach me at: https://www.instagram.com/jainish_devloper  or  portfolio-jainish-six.vercel.app
 
 ---
 
 ### 🛠 Tech Stack
 
 - 📱 Flutter & Dart  
-- 🤖 Android (Java/Kotlin)  
+- 🤖 Android  
 - 🔥 Firebase (Firestore, Auth, Cloud Functions)  
 - 🌐 REST APIs & RapidAPI  
 - 💾 Clean Architecture & MVC  
