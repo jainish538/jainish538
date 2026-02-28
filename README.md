@@ -1,17 +1,52 @@
-## Hi there 👋
-               A passionate Android Developer from India 
+## Hi there 👋 I'm Jainish
 
-<!
-**jainish538/jainish538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Android & Flutter Developer | Firebase Expert  
+🇮🇳 Based in India  
 
-Here are some ideas to get you started:
+I build high-performance mobile applications with clean architecture, scalable backend, and smooth UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
->
+---
+
+### 💡 About Me
+
+- 🔭 Currently building scalable Flutter apps with 100K+ downloads  
+- 🌱 Exploring advanced system design & app performance optimization  
+- ⚡ Specialized in Firebase optimization & real-time apps  
+- 💬 Ask me about Flutter, Android, Firebase, API Integration  
+- 👯 Open for freelance & collaboration projects  
+- 📫 Reach me at: your-email@gmail.com  
+
+---
+
+### 🛠 Tech Stack
+
+- 📱 Flutter & Dart  
+- 🤖 Android (Java/Kotlin)  
+- 🔥 Firebase (Firestore, Auth, Cloud Functions)  
+- 🌐 REST APIs & RapidAPI  
+- 💾 Clean Architecture & MVC  
+- 🎨 UI/UX Focused Development  
+
+---
+
+### 📊 GitHub Stats
+
+![Jainish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainish538&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Featured Projects
+
+- 📱 Movie Streaming App (Netflix-style UI)  
+- 📊 Productivity Tracker App  
+- 🔥 Firebase Optimized Scalable App (100K+ Users)  
+
+---
+
+### 🎯 My Goal
+
+To build scalable mobile products that impact millions of users.
+
+---
+
+⭐ If you like my work, consider giving a star!
